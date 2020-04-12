@@ -19,7 +19,7 @@ n4 = (r3//10)
 r4 = r3%10
 
 n5 = (r4//5)
-r5 = (r4%5)
+
 #print values
 
 print(str(n) +" toonies," + str(n2) + " loonies," + str(n3) + "quarters," + str(n4) + " dimes and," + str(n5) + " nickels")
